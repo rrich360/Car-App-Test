@@ -61,14 +61,31 @@ Step 2:
 Output for filtering through inventory stream displaying only cars manufactured 2016 or newer :
 
 
-			
-
--	PICTURE 2.0
--	PICTURE 2.1
--	PICTURE 2.2
+This code displays the method for the filter predicate to be invoked : 		
 
 
-		
+![2 0](https://user-images.githubusercontent.com/20470279/60304688-24efe380-9908-11e9-9473-1e67ffcfa68e.JPG)
+
+
+This code shows the filter method being called from inside of the main method of CarTest Class :
+
+
+![2 1-from-the-main()](https://user-images.githubusercontent.com/20470279/60304692-27ead400-9908-11e9-85b3-6b9d325cf32f.JPG)
+
+
+This is the actual result of the filter method created :
+
+
+![2 2](https://user-images.githubusercontent.com/20470279/60304707-2e794b80-9908-11e9-9561-3d4f87f9d608.JPG)
+
+
+
+
+
+
+
+
+
 /**
  Step 3:
 	           
