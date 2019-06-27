@@ -102,11 +102,14 @@ This is the actual result of the filter method created :
 */		
 
 
-Output for list of modified cars with instances of each component passed into each car including a Boolean method to start or turn off the car : 
+Output for list of modified cars with instances of each component passed into each car including a Boolean method to start or turn off the car (The boolean method to start each vehicle is circled in red): 
+
+![3 0-Turn-onTurn-off](https://user-images.githubusercontent.com/20470279/60304972-09390d00-9909-11e9-9178-079e33b69c2e.JPG)
 
 
--	PICTURE 3.0
--	PICTURE 3.1
+The following picture is the result :
+
+![3 1](https://user-images.githubusercontent.com/20470279/60304978-0b9b6700-9909-11e9-94db-65bfe9a39c64.JPG)
 
 
 Output for the turn/turn-off function to send a command to each component. I used the If-conditional statement for each component with enums included:
