@@ -192,6 +192,14 @@ Output for handling errors and exceptions if attempting to start a vehicle that 
 
 Output for invoking the turn on and turn off method for each car in the lot : 
 
--	PICTURE 4.1
--	PICTURE 4.2
--	PICTURE 4.3
+
+![4 1](https://user-images.githubusercontent.com/20470279/60305559-ef98c500-990a-11e9-9809-40288ca18481.JPG)
+
+
+
+![4 2-AllCars](https://user-images.githubusercontent.com/20470279/60305562-f1628880-990a-11e9-8dcc-c4dc311cd0cb.JPG)
+
+
+
+![4 3](https://user-images.githubusercontent.com/20470279/60305566-f293b580-990a-11e9-8a65-cea6767121e3.JPG)
+
