@@ -22,6 +22,15 @@ Output for two(2) or more car implementations in the car lot :
 
 
 ![1 0](https://user-images.githubusercontent.com/20470279/60304460-89f70980-9907-11e9-97cd-77ab18bace2a.JPG)
+
+
+
+This output displays the Inventory method being run from the main method in the CarTest class : 
+
+
+
+
+
 ![1 1](https://user-images.githubusercontent.com/20470279/60304464-8c596380-9907-11e9-8a7d-5b43f110a91e.JPG)
 
 
@@ -34,7 +43,7 @@ Output for the inventory of the lot utilizing Stream API to include attributes o
 
 
 
--	PICTURE 1.2
+![1 2](https://user-images.githubusercontent.com/20470279/60304562-cb87b480-9907-11e9-828a-1db03cafcc66.JPG)
 
 
 
