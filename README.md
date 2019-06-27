@@ -21,8 +21,8 @@ This is a test to examine comprehension skills in building an application based 
 Output for two(2) or more car implementations in the car lot : 
 
 
--	PICTURE 1.0
--	PICTURE 1.1
+![1 0](https://user-images.githubusercontent.com/20470279/60304460-89f70980-9907-11e9-97cd-77ab18bace2a.JPG)
+![1 1](https://user-images.githubusercontent.com/20470279/60304464-8c596380-9907-11e9-8a7d-5b43f110a91e.JPG)
 
 
 
