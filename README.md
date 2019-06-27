@@ -114,12 +114,29 @@ The following picture is the result :
 
 Output for the turn/turn-off function to send a command to each component. I used the If-conditional statement for each component with enums included:
 
--	PICTURE 3.2
--	PICTURE 3.3
--	PICTURE 3.4
--	PICTURE 3.5
--	PICTURE 3.6
--	PICTURE 3.7
+The following is the code to create the command signals for each component and car in the lot :
+
+![3 2-Enums](https://user-images.githubusercontent.com/20470279/60305110-8b293600-9909-11e9-8757-35a53fdc0aff.JPG)
+
+The following example is the Enums being called from the main method insid eof the CarTest Class:
+
+![3 3-EnumFromMain()](https://user-images.githubusercontent.com/20470279/60305112-8e242680-9909-11e9-8752-fa856b6ea414.JPG)
+
+The following is the prompt for the user to enter a command for the engine component of the vehicle : 
+
+![3 4](https://user-images.githubusercontent.com/20470279/60305119-941a0780-9909-11e9-91df-c08e5dd285fe.JPG)
+
+The following is the prompt for the user to enter a command for the headlights component of the vehicle :
+
+![3 5](https://user-images.githubusercontent.com/20470279/60305124-9714f800-9909-11e9-9180-a7f63f67b80a.JPG)
+
+The following is the prompt for the user to enter a command for the Stereo component of the vehicle :
+
+![3 6](https://user-images.githubusercontent.com/20470279/60305127-9a0fe880-9909-11e9-9453-f00182ba988b.JPG)
+
+the following is the result of all commands entered from user : 
+
+![3 7](https://user-images.githubusercontent.com/20470279/60305134-9bd9ac00-9909-11e9-8e04-30504d0adb68.JPG)
 
 
 
