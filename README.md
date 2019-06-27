@@ -21,7 +21,6 @@ This is a test to examine comprehension skills in building an application based 
 Output for two(2) or more car implementations in the car lot : 
 
 
-
 -	PICTURE 1.0
 -	PICTURE 1.1
 
@@ -36,6 +35,7 @@ Output for the inventory of the lot utilizing Stream API to include attributes o
 
 
 -	PICTURE 1.2
+
 
 
 		
