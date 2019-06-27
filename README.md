@@ -112,27 +112,64 @@ The following picture is the result :
 ![3 1](https://user-images.githubusercontent.com/20470279/60304978-0b9b6700-9909-11e9-94db-65bfe9a39c64.JPG)
 
 
+
+
+
 Output for the turn/turn-off function to send a command to each component. I used the If-conditional statement for each component with enums included:
+
+
+
+
 
 The following is the code to create the command signals for each component and car in the lot :
 
 ![3 2-Enums](https://user-images.githubusercontent.com/20470279/60305110-8b293600-9909-11e9-8757-35a53fdc0aff.JPG)
 
-The following example is the Enums being called from the main method insid eof the CarTest Class:
+
+
+
+
+
+
+The following example is the Enums being called from the main method inside of the CarTest Class:
 
 ![3 3-EnumFromMain()](https://user-images.githubusercontent.com/20470279/60305112-8e242680-9909-11e9-8752-fa856b6ea414.JPG)
+
+
+
+
+
+
 
 The following is the prompt for the user to enter a command for the engine component of the vehicle : 
 
 ![3 4](https://user-images.githubusercontent.com/20470279/60305119-941a0780-9909-11e9-91df-c08e5dd285fe.JPG)
 
+
+
+
+
+
+
+
 The following is the prompt for the user to enter a command for the headlights component of the vehicle :
 
 ![3 5](https://user-images.githubusercontent.com/20470279/60305124-9714f800-9909-11e9-9180-a7f63f67b80a.JPG)
 
+
+
+
+
+
+
 The following is the prompt for the user to enter a command for the Stereo component of the vehicle :
 
 ![3 6](https://user-images.githubusercontent.com/20470279/60305127-9a0fe880-9909-11e9-9453-f00182ba988b.JPG)
+
+
+
+
+
 
 the following is the result of all commands entered from user : 
 
@@ -143,11 +180,13 @@ the following is the result of all commands entered from user :
 
 Output for handling errors and exceptions if attempting to start a vehicle that has already started or turn-off a vehicle that’s already stopped : 
 
+![3 8](https://user-images.githubusercontent.com/20470279/60305446-8e70f180-990a-11e9-9947-90de0b99cefb.JPG)
 
--	PICTURE  3.8
--	PICTURE 3.9
--	PICTURE 4.0
 
+![3 9_LI](https://user-images.githubusercontent.com/20470279/60305449-8fa21e80-990a-11e9-8a3f-4638c1900ea5.jpg)
+
+
+![4 0](https://user-images.githubusercontent.com/20470279/60305453-916be200-990a-11e9-8513-b349edb7a3fd.JPG)
 
 
 
