@@ -123,7 +123,8 @@ Output for the turn/turn-off function to send a command to each component. I use
 
 The following is the code to create the command signals for each component and car in the lot :
 
-![3 2-Enums](https://user-images.githubusercontent.com/20470279/60305110-8b293600-9909-11e9-8757-35a53fdc0aff.JPG)
+![3 2 2-Enums](https://user-images.githubusercontent.com/20470279/60424697-e46dbf80-9bbe-11e9-9f8a-d76e543074d4.JPG)
+
 
 
 
