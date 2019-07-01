@@ -155,7 +155,8 @@ The following is the prompt for the user to enter a command for the engine compo
 
 The following is the prompt for the user to enter a command for the headlights component of the vehicle :
 
-![3 5](https://user-images.githubusercontent.com/20470279/60305124-9714f800-9909-11e9-9180-a7f63f67b80a.JPG)
+![3 6 1](https://user-images.githubusercontent.com/20470279/60425505-a7a2c800-9bc0-11e9-8f43-282fa5e34747.JPG)
+
 
 
 
