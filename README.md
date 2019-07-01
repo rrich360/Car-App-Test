@@ -172,9 +172,10 @@ The following is the prompt for the user to enter a command for the Stereo compo
 
 
 
-the following is the result of all commands entered from user : 
+The following is the result of all commands input from the user : 
 
-![3 7](https://user-images.githubusercontent.com/20470279/60305134-9bd9ac00-9909-11e9-8e04-30504d0adb68.JPG)
+![3 7 1](https://user-images.githubusercontent.com/20470279/60424829-2991f180-9bbf-11e9-8f97-07a0e6f170be.JPG)
+
 
 
 
