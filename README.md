@@ -65,7 +65,7 @@ The code you see below is what I used to successfully invoke the predicate metho
 ![Newer](https://user-images.githubusercontent.com/20470279/60859309-1e068200-a1e0-11e9-97f2-84d3570c1139.JPG)
 
 
-This picture shows the filter method being called from inside of the main method of CarTest Class :
+The picture below is an example of when I created a list of cars named "New". I created a class called "NewerCar" and implemented a method called 'showNewerCars()'. I called showNewerCars() from inside the main method of CarTest Class ---> (NewerCar.showNewerCars(New) :
 
 
 ![2 1-from-the-main()](https://user-images.githubusercontent.com/20470279/60304692-27ead400-9908-11e9-85b3-6b9d325cf32f.JPG)
