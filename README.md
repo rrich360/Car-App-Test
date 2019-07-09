@@ -26,8 +26,7 @@ list :
 
 
 
-I created an Inventory method to build a list of cars and print out from the main method in the CarTest class
-using the code you see in the picture above, which includes the Stream API: 
+In the picture below you see the variable argument constructor(varargs) I used to create the Inventory list called "assemblyline". The list of cars in the main method of the CarTest class prints out using the Stream code from the showInventory() in the Inventory class : 
 
 
 
