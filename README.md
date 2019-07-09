@@ -18,14 +18,16 @@ This is a test to examine comprehension skills in building an application based 
 
 
 
-Output for two(2) or more car implementations in the car lot : 
+This is the lambda syntax I used for streaming the output for two(2) or more car implementations in the car lot 
+list : 
 
 
 ![1 0](https://user-images.githubusercontent.com/20470279/60304460-89f70980-9907-11e9-97cd-77ab18bace2a.JPG)
 
 
 
-This output displays the Inventory method being run from the main method in the CarTest class : 
+I created an Inventory method to build a list of cars and print out from the main method in the CarTest class
+using the code you see in the picture above, which includes the Stream API: 
 
 
 
