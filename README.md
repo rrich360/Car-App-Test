@@ -62,8 +62,7 @@ Step 2:
 Now, I used a predicate to traverse through the inventory list and filter only cars manufactured from 2016 or newer.
 The code you see below is what I used to successfully invoke the predicate method with the Stream API : 		
 
-
-![2 0](https://user-images.githubusercontent.com/20470279/60304688-24efe380-9908-11e9-9473-1e67ffcfa68e.JPG)
+![Newer](https://user-images.githubusercontent.com/20470279/60859309-1e068200-a1e0-11e9-97f2-84d3570c1139.JPG)
 
 
 This picture shows the filter method being called from inside of the main method of CarTest Class :
