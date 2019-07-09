@@ -39,7 +39,7 @@ In the picture below you see the variable argument constructor(varargs) I used t
 
 
 
-Output for the inventory of the lot utilizing Stream API to include attributes of each car (make/model/year) : 
+The following picture is the output of the inventory list after calling the showInventory() from the main method in CarTest. "Inventory.showInventory(assemblyLine)" prints the list with the attributes of each car (make/model/year) : 
 
 
 
@@ -59,22 +59,21 @@ Step 2:
 		
 
 
-Output for filtering through inventory stream displaying only cars manufactured 2016 or newer :
-
-
-This code displays the method for the filter predicate to be invoked : 		
+Now, I used a predicate to traverse through the inventory list and filter only cars manufactured from 2016 or newer.
+The code you see below is what I used to successfully invoke the predicate method with the Stream API : 		
 
 
 ![2 0](https://user-images.githubusercontent.com/20470279/60304688-24efe380-9908-11e9-9473-1e67ffcfa68e.JPG)
 
 
-This code shows the filter method being called from inside of the main method of CarTest Class :
+This picture shows the filter method being called from inside of the main method of CarTest Class :
 
 
 ![2 1-from-the-main()](https://user-images.githubusercontent.com/20470279/60304692-27ead400-9908-11e9-85b3-6b9d325cf32f.JPG)
 
 
-This is the actual result of the filter method created :
+This is the actual output after invoking the predicate method to filter through the Inventory list and print cars with the year of 2016
+or newer :
 
 
 ![2 2](https://user-images.githubusercontent.com/20470279/60304707-2e794b80-9908-11e9-9561-3d4f87f9d608.JPG)
