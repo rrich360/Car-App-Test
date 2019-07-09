@@ -106,7 +106,7 @@ Output for list of modified cars with instances of each component passed into ea
 ![3 0-Turn-onTurn-off](https://user-images.githubusercontent.com/20470279/60304972-09390d00-9909-11e9-9178-079e33b69c2e.JPG)
 
 
-The following picture is the result :
+The following picture is the output :
 
 ![3 1](https://user-images.githubusercontent.com/20470279/60304978-0b9b6700-9909-11e9-94db-65bfe9a39c64.JPG)
 
@@ -114,13 +114,13 @@ The following picture is the result :
 
 
 
-Output for the turn/turn-off function to send a command to each component. I used the If-conditional statement for each component with enums included:
+Next, I needed to implement a method for the turn/turn-off function to send a command to each component. I used the If-conditional statement for each component with enums included:
 
 
 
 
 
-The following is the code to create the command signals for each component and car in the lot :
+The following code is what I used to create the command signals and send to each component and car in the lot :
 
 ![3 2 2-Enums](https://user-images.githubusercontent.com/20470279/60424697-e46dbf80-9bbe-11e9-9f8a-d76e543074d4.JPG)
 
@@ -131,7 +131,7 @@ The following is the code to create the command signals for each component and c
 
 
 
-The following example is the Enums being called from the main method inside of the CarTest Class:
+The following example is the Enums I created to be called from the main method inside of the CarTest Class:
 
 ![3 3-EnumFromMain()](https://user-images.githubusercontent.com/20470279/60305112-8e242680-9909-11e9-8752-fa856b6ea414.JPG)
 
@@ -192,7 +192,7 @@ Output for handling errors and exceptions if attempting to start a vehicle that 
 
 
 
-Output for invoking the turn on and turn off method for each car in the lot : 
+The following pictures below are the output from invoking the turn on and turn off method for each car in the lot : 
 
 
 ![4 1](https://user-images.githubusercontent.com/20470279/60305559-ef98c500-990a-11e9-9809-40288ca18481.JPG)
