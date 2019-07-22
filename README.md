@@ -91,7 +91,7 @@ or newer :
 * - Create Engine / Headlights / Stereo components.
 * - Modify the vehicle creation to pass in instances of each component for each car.      
 	
-* - Finish building out the turn-on/turn-off function to send a command to each      component and print out a message indicating each component has turned on or off 
+* - Finish building out the turn-on/turn-off function to send a command to each component and print out a message indicating each component has turned on or off 
          	 		e.x. "Engine has started".
 * - Make sure to add error and exception handling if attempting to start a vehicle that's already started or stop one that's already stopped.
 	 
@@ -120,7 +120,7 @@ Next, I needed to implement a method for the turn/turn-off function to send a co
 
 
 
-The following code is what I used to create the command signals and send to each component and car in the lot :
+The following code is what I used to create the command signals. It also includes the methods I created to send commands to each component and/or each car in the lot :
 
 ![3 2 2-Enums](https://user-images.githubusercontent.com/20470279/60424697-e46dbf80-9bbe-11e9-9f8a-d76e543074d4.JPG)
 
